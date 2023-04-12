@@ -1,0 +1,15 @@
+{
+    "name": "face-reaction-detection",
+    "version": "1.0.0",
+    "description": "A demo of face reaction detection using face-api.js",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel models/index.html"
+    },
+    "author": "Md Rasheduzzaman",
+    "license": "MIT",
+    "dependencies": {
+        "face-api.js": "^0.20.0",
+        "parcel-bundler": "^1.8.1"
+    }
+}
